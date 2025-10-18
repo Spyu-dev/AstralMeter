@@ -5,13 +5,14 @@
 </p>
 
 <div align="center">
+
 [![GitHub](https://img.shields.io/github/downloads/Spyu-dev/AstralMeter/total?style=for-the-badge&color=%23280137)](https://github.com/spyu-dev/AstralMeter/releases/latest)
 
-![Versão](https://img.shields.io/badge/version-1.0.1-purple)
-![Licença](https://img.shields.io/badge/license-AGPL--3.0-blue)
-![Plataforma](https://img.shields.io/badge/platform-Windows-brightgreen)
+![Version](https://img.shields.io/badge/version-1.0.1-purple)
+![License](https://img.shields.io/badge/license-AGPL--3.0-blue)
+![Platform](https://img.shields.io/badge/platform-Windows-brightgreen)
 
-[<img src="static/kofi.png" alt="Ko-fi" width="230"/>](https://ko-fi.com/spyudev)
+[!["Ko-fi"](https://storage.ko-fi.com/cdn/kofi4.png?v=6)](https://ko-fi.com/spyudev)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png)](https://www.buymeacoffee.com/spyu)
 
