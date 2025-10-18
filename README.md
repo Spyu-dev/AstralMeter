@@ -12,7 +12,7 @@
 ![License](https://img.shields.io/badge/license-AGPL--3.0-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-brightgreen)
 
-[!["Ko-fi"](https://storage.ko-fi.com/cdn/kofi4.png?v=6)](https://ko-fi.com/spyudev)
+[<img src="https://storage.ko-fi.com/cdn/kofi4.png?v=6" alt="Ko-fi" width="230"/>](https://ko-fi.com/spyudev)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png)](https://www.buymeacoffee.com/spyu)
 
