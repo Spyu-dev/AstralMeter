@@ -41,11 +41,12 @@ O AstralMeter depende do Npcap para capturar os pacotes de rede do jogo.
 
 ---
 
-<p align="center">
-  <a href="https://github.com/Spyu-dev/AstralMeter/releases/tag/1.0.1"><strong>[CLIQUE AQUI PARA BAIXAR O MEDIDOR DE DPS]</strong></a>
-</p>
 
 ## 🚀 Instalação
+
+<p align="center">
+  <a href="https://github.com/Spyu-dev/AstralMeter/releases/tag/v1.0.1"><strong>[CLIQUE AQUI PARA BAIXAR O MEDIDOR DE DPS]</strong></a>
+</p>
 
 1. Confirme o Npcap instalado (veja acima)
 2. Baixe a versão mais recente do AstralMeter no botão das Notas da Versão

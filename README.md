@@ -26,11 +26,6 @@ Track your combat stats in real time with a modern, customizable interface.
 
 ---
 
-<p align="center">
-	<a href="https://github.com/Spyu-dev/AstralMeter/releases/tag/1.0.1"><strong>[CLICK HERE FOR METER DOWNLOAD]</strong></a>
-</p>
-
-
 ## 📋 Prerequisites
 
 > ⚠️ IMPORTANT: Install Npcap before launching AstralMeter.
@@ -47,6 +42,10 @@ AstralMeter relies on Npcap to capture the game's network packets.
 ---
 
 ## 🚀 Installation
+
+<p align="center">
+	<a href="https://github.com/Spyu-dev/AstralMeter/releases/tag/v1.0.1"><strong>[CLICK HERE FOR METER DOWNLOAD]</strong></a>
+</p>
 
 1. Confirm Npcap is installed (see above)
 2. Download the latest AstralMeter release from the button in the Release Notes section
