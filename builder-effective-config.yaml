@@ -1,0 +1,43 @@
+directories:
+  output: dist
+  buildResources: build
+appId: com.spyu.astralmeter
+productName: AstralMeter
+asar: true
+asarUnpack:
+  - node_modules/cap/**/*
+  - node_modules/uiohook-napi/**/*
+  - node_modules/@mongodb-js/zstd/**/*
+files:
+  - filter:
+      - main.js
+      - preload.js
+      - overlay.html
+      - overlay.css
+      - overlay.js
+      - translations/**/*
+      - userDataManager.js
+      - packetCapture.js
+      - icons/**/*
+      - close-icon.svg
+      - algo/**/*
+      - tables/**/*
+      - node_modules/**/*
+      - package.json
+win:
+  target: portable
+  icon: icon.ico
+  requestedExecutionLevel: requireAdministrator
+nsis:
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+  createDesktopShortcut: true
+  createStartMenuShortcut: true
+  shortcutName: AstralMeter
+  installerIcon: icon.ico
+  uninstallerIcon: icon.ico
+  installerHeaderIcon: icon.ico
+  deleteAppDataOnUninstall: false
+  license: LICENSE
+  artifactName: ${productName}-Setup-${version}.${ext}
+electronVersion: 38.3.0
